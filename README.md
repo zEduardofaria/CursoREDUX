@@ -1,7 +1,7 @@
 # VideoPlayer App 
 #### Only with ReactJS
 
-This course was made by [Stephen Grider](https://github.com/StephenGrider/ReduxSimpleStarter.git). You can buy this course on [Udemy](https://www.udemy.com/react-redux/)! This was 
+This course was made by [Stephen Grider](https://github.com/StephenGrider/ReduxSimpleStarter.git). You can buy this course on [Udemy](https://www.udemy.com/react-redux/)!
 
 ### Getting Started
 
